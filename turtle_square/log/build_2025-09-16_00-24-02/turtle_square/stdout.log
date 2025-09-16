@@ -1,0 +1,35 @@
+running egg_info
+creating build/turtle_square/turtle_square.egg-info
+writing build/turtle_square/turtle_square.egg-info/PKG-INFO
+writing dependency_links to build/turtle_square/turtle_square.egg-info/dependency_links.txt
+writing entry points to build/turtle_square/turtle_square.egg-info/entry_points.txt
+writing requirements to build/turtle_square/turtle_square.egg-info/requires.txt
+writing top-level names to build/turtle_square/turtle_square.egg-info/top_level.txt
+writing manifest file 'build/turtle_square/turtle_square.egg-info/SOURCES.txt'
+reading manifest file 'build/turtle_square/turtle_square.egg-info/SOURCES.txt'
+writing manifest file 'build/turtle_square/turtle_square.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/build/turtle_square/build
+creating /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/build/turtle_square/build/lib
+creating /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/build/turtle_square/build/lib/turtle_square
+copying turtle_square/turtle_mover.py -> /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/build/turtle_square/build/lib/turtle_square
+copying turtle_square/__init__.py -> /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/build/turtle_square/build/lib/turtle_square
+running install
+running install_lib
+creating /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/lib/python3.10/site-packages/turtle_square
+copying /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/build/turtle_square/build/lib/turtle_square/turtle_mover.py -> /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/lib/python3.10/site-packages/turtle_square
+copying /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/build/turtle_square/build/lib/turtle_square/__init__.py -> /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/lib/python3.10/site-packages/turtle_square
+byte-compiling /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/lib/python3.10/site-packages/turtle_square/turtle_mover.py to turtle_mover.cpython-310.pyc
+byte-compiling /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/lib/python3.10/site-packages/turtle_square/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/share/ament_index
+creating /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/share/ament_index/resource_index
+creating /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/share/ament_index/resource_index/packages
+copying resource/turtle_square -> /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/share/ament_index/resource_index/packages
+copying package.xml -> /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/share/turtle_square
+running install_egg_info
+Copying build/turtle_square/turtle_square.egg-info to /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/lib/python3.10/site-packages/turtle_square-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtle_square_node script to /mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/install/turtle_square/lib/turtle_square
+writing list of installed files to '/mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square/build/turtle_square/install.log'

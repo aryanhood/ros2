@@ -1,0 +1,36 @@
+[2.022s] Invoking command in '/mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square': PYTHONPATH=/mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtle_square build --build-base /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build install --record /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/install.log --single-version-externally-managed install_data
+[2.705s] running egg_info
+[2.716s] creating ../build/turtle_square/turtle_square.egg-info
+[2.718s] writing ../build/turtle_square/turtle_square.egg-info/PKG-INFO
+[2.727s] writing dependency_links to ../build/turtle_square/turtle_square.egg-info/dependency_links.txt
+[2.732s] writing entry points to ../build/turtle_square/turtle_square.egg-info/entry_points.txt
+[2.737s] writing requirements to ../build/turtle_square/turtle_square.egg-info/requires.txt
+[2.740s] writing top-level names to ../build/turtle_square/turtle_square.egg-info/top_level.txt
+[2.747s] writing manifest file '../build/turtle_square/turtle_square.egg-info/SOURCES.txt'
+[2.770s] reading manifest file '../build/turtle_square/turtle_square.egg-info/SOURCES.txt'
+[2.811s] writing manifest file '../build/turtle_square/turtle_square.egg-info/SOURCES.txt'
+[2.814s] running build
+[2.815s] running build_py
+[2.819s] creating /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build
+[2.821s] creating /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build/lib
+[2.823s] creating /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build/lib/turtle_square
+[2.831s] copying turtle_square/turtle_mover.py -> /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build/lib/turtle_square
+[2.849s] copying turtle_square/__init__.py -> /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build/lib/turtle_square
+[2.858s] running install
+[2.859s] running install_lib
+[2.872s] creating /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/lib/python3.10/site-packages/turtle_square
+[2.881s] copying /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build/lib/turtle_square/turtle_mover.py -> /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/lib/python3.10/site-packages/turtle_square
+[2.901s] copying /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build/lib/turtle_square/__init__.py -> /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/lib/python3.10/site-packages/turtle_square
+[2.923s] byte-compiling /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/lib/python3.10/site-packages/turtle_square/turtle_mover.py to turtle_mover.cpython-310.pyc
+[2.949s] byte-compiling /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/lib/python3.10/site-packages/turtle_square/__init__.py to __init__.cpython-310.pyc
+[2.971s] running install_data
+[2.977s] creating /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/share/ament_index
+[2.979s] creating /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/share/ament_index/resource_index
+[2.981s] creating /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/share/ament_index/resource_index/packages
+[2.987s] copying resource/turtle_square -> /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/share/ament_index/resource_index/packages
+[3.001s] copying package.xml -> /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/share/turtle_square
+[3.010s] running install_egg_info
+[3.024s] Copying ../build/turtle_square/turtle_square.egg-info to /mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/lib/python3.10/site-packages/turtle_square-0.0.0-py3.10.egg-info
+[3.184s] running install_scripts
+[3.248s] writing list of installed files to '/mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/install.log'
+[3.278s] Invoked command in '/mnt/c/Users/DELL/Desktop/ros/ros2/turtle_square' returned '0': PYTHONPATH=/mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/DELL/Desktop/ros/ros2/install/turtle_square/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtle_square build --build-base /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/build install --record /mnt/c/Users/DELL/Desktop/ros/ros2/build/turtle_square/install.log --single-version-externally-managed install_data
